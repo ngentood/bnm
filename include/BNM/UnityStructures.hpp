@@ -1,7 +1,7 @@
 #pragma once
 
 #include <new>
-
+#include <cmath>
 #include "UserSettings/GlobalSettings.hpp"
 
 #include "UnityStructures/Color.hpp"
